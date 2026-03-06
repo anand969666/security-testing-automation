@@ -27,4 +27,6 @@ However, while automation provides many advantages, it should not completely rep
 
 Organizations must also focus on proper tool selection and configuration. Different tools are designed for different purposes, such as static application security testing (SAST), dynamic application security testing (DAST), and dependency scanning. Choosing the right tools and integrating them effectively into development pipelines is essential for maximizing the benefits of automation.
 
-In conclusion, security testing automation plays a vital role in building secure and resilient software systems. It enhances vulnerability detection, improves efficiency, and supports continuous security monitoring throughout the development lifecycle. When combined with manual testing and strong security practices, automated security testing enables organizations to deliver reliable applications while protecting sensitive data and maintaining user trust in an increasingly digital world.
+In conclusion, security testing automation plays a vital role in building secure and resilient software systems. It enhances vulnerability detection, improves efficiency, and supports continuous security monitoring throughout the development lifecycle. When combined with manual testing and strong security practices, automated security testing enables organizations 
+to deliver reliable applications while protecting sensitive data and maintaining user trust in an increasingly digital world.
+![Image](https://github.com/user-attachments/assets/fa374aec-85e9-40e3-a7e3-1689cecbc559)
